@@ -10,7 +10,7 @@ Hi, I'm Tyler. I'm a first year Information and Cyber Security student at Teessi
 - **Also covered at BTEC level:** XML and cloud computing
 
 ## What I'm learning at uni this term
-My System Design module is the main one. So far we've covered the software development lifecycle, how to write requirements (functional and non-functional), and how to prioritise them using MoSCoW and user stories. UML diagrams come next, then databases and SQL later in the term.
+My System Design module is the main one. So far we've covered the software development lifecycle, how to write requirements (functional and non-functional), and how to prioritise them using MoSCoW and user stories. UML diagrams come next, then databases and SQL later in the term. The module also covers data protection law (GDPR) and the BCS code of conduct, which I'll be applying in my own project work.
 
 The security side keeps coming up in the examples we look at. Things like two-factor authentication, audit trails and encrypted data all show up as requirements, which tells me how much security has to be planned in from the start and not added at the end.
 
